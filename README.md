@@ -9,7 +9,7 @@ Soy **Programador Full Stack**. Me encanta transformar ideas creativas en códig
 - Creo experiencias de usuario excepcionales.
 
 ## **¿Adónde me dirijo?** 🚀 
-Mi objetivo es seguir mejorando mis habilidades y ayudar a crear soluciones que marquen la diferencia en la industria. **Siempre pienso que hay margen para mejorar.** 🎯
+Mi objetivo es seguir mejorando mis habilidades y ayudar a crear soluciones que marquen la diferencia en la industria. **Pienso que siempre hay margen para mejorar.** 🎯
 
 ## **Tecnologías que Utilizo** 💻:
 - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
